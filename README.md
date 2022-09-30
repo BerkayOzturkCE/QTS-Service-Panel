@@ -1,16 +1,57 @@
-# technicalserviceadmin
+<br />
+<p align="center">
+  <a href="https://github.com/BerkayOzturkCE/QTS-Service-Panel">
+    <img src="https://github.com/BerkayOzturkCE/QTS-Service-Panel/blob/main/assets/icons/logo.png" alt="Logo" width="400">
+  </a>
 
-A new Flutter project.
+  <h3 align="center">QTS Service Panel</h3>
 
-## Getting Started
+  <p align="center">
+    <br />
+    <a href="https://github.com/BerkayOzturkCE/QTS-Service-Panel">Download</a>
+    ·
+    <a href="https://github.com/BerkayOzturkCE/QTS-Service-Panel/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/BerkayOzturkCE/QTS-Service-Panel/issues">Request Feature</a>
+  </p>
+</p>
 
-This project is a starting point for a Flutter application.
+## About The Project
+QTS service panel is an application where technical services can see the data of the calls made, talk to the customers, see the customer comments and see the average of the scores of these comments.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Built With
+
+* [Flutter](https://flutter.dev/)
+* [Firebase](https://firebase.google.com/)
+* [Visual Studio Code](https://visualstudio.microsoft.com/tr/)
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 📌 Contact
+
+<a href="https://www.linkedin.com/in/broztrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donpablonow" height="30" width="40" /></a>
+<a href="https://www.instagram.com/brky_oztrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="donpablonow" height="30" width="40" /></a>
+<a href="https://twitter.com/BerkayOzturkCE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="donpablonow" height="30" width="40" /></a>
+
+
+
+## Screenshots
+
+
+Login Page               |  Signin Page
+:-------------------------:|:-------------------------:
+![](https://github.com/BerkayOzturkCE/QTS-Service-Panel/blob/main/screen%20shots/Screenshot_20.png?raw=true)|![](https://github.com/BerkayOzturkCE/QTS-Service-Panel/blob/main/screen%20shots/Screenshot_26.png?raw=true)|
+
+
+Dashboard Page               |  Chat Page
+:-------------------------:|:-------------------------:
+![](https://github.com/BerkayOzturkCE/QTS-Service-Panel/blob/main/screen%20shots/Screenshot_21.png?raw=true)|![](https://github.com/BerkayOzturkCE/QTS-Service-Panel/blob/main/screen%20shots/Screenshot_22.png?raw=true)|
+
+Task Page               |  Profile Page
+:-------------------------:|:-------------------------:
+![](https://github.com/BerkayOzturkCE/QTS-Service-Panel/blob/main/screen%20shots/Screenshot_23.png?raw=true)|![](https://github.com/BerkayOzturkCE/QTS-Service-Panel/blob/main/screen%20shots/Screenshot_24.png?raw=true)|
+
